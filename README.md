@@ -6,12 +6,16 @@ Projeto criado durante a QA Ninja Week 1a Edição, 2020.
 - Capybara
 - Cucumber
 - HTTParty
-- Rspec
+- RSpec
 - Selenium-Webdriver
 
 ### Iniciar
-- Instalar Ruby e bundler.
-- Instalar dependências: bundle install.
+- Instalar Ruby e Bundler.
+- Instalar dependências: `bundle install`.
 
 ### Testes
-- cucumber
+Este repositório contém apenas este README no branch atual; não inclui `Gemfile`, arquivos de features ou specs. Portanto, o comando abaixo descreve a ferramenta usada no curso, mas não executa uma suíte deste repositório:
+
+```bash
+cucumber
+```
